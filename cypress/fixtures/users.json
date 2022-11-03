@@ -1,0 +1,10 @@
+{
+  "invalid": {
+    "email": "fikayotest@convertr.io",
+    "password": "test1234"
+  },
+  "valid": {
+    "email": "cvtrtest1@convertr.io",
+    "password": "Password!23"
+  }
+}
